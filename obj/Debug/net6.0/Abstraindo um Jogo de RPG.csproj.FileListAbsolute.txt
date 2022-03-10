@@ -1,0 +1,15 @@
+C:\Users\ThinkPad\Music\Projetos Pessoal\DIO\Abstraindo um Jogo de RPG\bin\Debug\net6.0\Abstraindo um Jogo de RPG.exe
+C:\Users\ThinkPad\Music\Projetos Pessoal\DIO\Abstraindo um Jogo de RPG\bin\Debug\net6.0\Abstraindo um Jogo de RPG.deps.json
+C:\Users\ThinkPad\Music\Projetos Pessoal\DIO\Abstraindo um Jogo de RPG\bin\Debug\net6.0\Abstraindo um Jogo de RPG.runtimeconfig.json
+C:\Users\ThinkPad\Music\Projetos Pessoal\DIO\Abstraindo um Jogo de RPG\bin\Debug\net6.0\Abstraindo um Jogo de RPG.dll
+C:\Users\ThinkPad\Music\Projetos Pessoal\DIO\Abstraindo um Jogo de RPG\bin\Debug\net6.0\ref\Abstraindo um Jogo de RPG.dll
+C:\Users\ThinkPad\Music\Projetos Pessoal\DIO\Abstraindo um Jogo de RPG\bin\Debug\net6.0\Abstraindo um Jogo de RPG.pdb
+C:\Users\ThinkPad\Music\Projetos Pessoal\DIO\Abstraindo um Jogo de RPG\obj\Debug\net6.0\Abstraindo um Jogo de RPG.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Music\Projetos Pessoal\DIO\Abstraindo um Jogo de RPG\obj\Debug\net6.0\Abstraindo um Jogo de RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\Music\Projetos Pessoal\DIO\Abstraindo um Jogo de RPG\obj\Debug\net6.0\Abstraindo um Jogo de RPG.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Music\Projetos Pessoal\DIO\Abstraindo um Jogo de RPG\obj\Debug\net6.0\Abstraindo um Jogo de RPG.AssemblyInfo.cs
+C:\Users\ThinkPad\Music\Projetos Pessoal\DIO\Abstraindo um Jogo de RPG\obj\Debug\net6.0\Abstraindo um Jogo de RPG.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Music\Projetos Pessoal\DIO\Abstraindo um Jogo de RPG\obj\Debug\net6.0\Abstraindo um Jogo de RPG.dll
+C:\Users\ThinkPad\Music\Projetos Pessoal\DIO\Abstraindo um Jogo de RPG\obj\Debug\net6.0\ref\Abstraindo um Jogo de RPG.dll
+C:\Users\ThinkPad\Music\Projetos Pessoal\DIO\Abstraindo um Jogo de RPG\obj\Debug\net6.0\Abstraindo um Jogo de RPG.pdb
+C:\Users\ThinkPad\Music\Projetos Pessoal\DIO\Abstraindo um Jogo de RPG\obj\Debug\net6.0\Abstraindo um Jogo de RPG.genruntimeconfig.cache
